@@ -29,9 +29,3 @@ npm run dev
 ``` bash
 # build for production with minification
 npm run build
-```
-=======
-# spe
-
-=======
-# spe
